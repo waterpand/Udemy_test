@@ -5,3 +5,4 @@ line from user2
 4rd string
 dfghjj
 line from user1 lesson about rebase
+one more line from user1 lesson about rebase
