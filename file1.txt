@@ -6,3 +6,4 @@ line from user2
 dfghjj
 line from user1 lesson about rebase
 one more line from user1 lesson about rebase
+two more line from user1 lesson about rebase
